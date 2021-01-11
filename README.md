@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...My personal Profile
-- 🌱 I’m currently learning ...Java Script
-- 👯 I’m looking to collaborate on ...Java Script
-- 🤔 I’m looking for help with ...AWS
+- 🔭 I’m currently working on Password Generator
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on JavaScript
+- 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...He/him
-- ⚡ Fun fact: ...Almost finished the profile
+- ⚡ Fun fact: ...Almost finished the Password Generator
 
